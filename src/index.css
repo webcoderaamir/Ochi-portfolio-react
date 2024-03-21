@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.masker h1, .text h1, .open, .prs{
+    font-family: Founders Grotesk X Condensed;
+}
+
+.approach h1, .para, .ftr, .trw, .cpy, .dets{
+    font-family: Neue Montreal;
+}
+
